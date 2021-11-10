@@ -32,7 +32,7 @@ public class Loops {
         System.out.print("Please enter the sum-up number: ");
         int sumUpNumber = scanner.nextInt();
         String output = "";
-        List<Integer> tmp = new ArrayList<>();
+        List<Integer> tmp = new ArrayList<Integer>();
 
         for (int i = 0; i < aryNumber.length; i++) {
             for (int j = i; j < aryNumber.length; j++) {
