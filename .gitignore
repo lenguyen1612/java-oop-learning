@@ -3,3 +3,4 @@
 .idea/
 java-oop-learning.iml
 /out/
+*/.DS_Store

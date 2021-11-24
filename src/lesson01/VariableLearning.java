@@ -1,7 +1,5 @@
-package lesson1;
+package lesson01;
 
-import javax.swing.*;
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class VariableLearning {
